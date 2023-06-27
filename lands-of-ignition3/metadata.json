@@ -1,0 +1,55 @@
+{
+  "name": "lands-of-ignition3",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "<a href=\"https://www.maptiler.com/engine/\">Rendered with MapTiler Engine</a>, non-commercial use only",
+  "type": "baselayer",
+  "color": "#D6E8FD",
+  "format": "png",
+  "minzoom": "0",
+  "maxzoom": "3",
+  "scale": "1.000000",
+  "bounds": [-180.00000000, -89.99609513, 179.99294937, 90.00000000],
+  "profile": "custom",
+  "crs": "EPSG:4326",
+  "proj4": "+proj=longlat +datum=WGS84 +no_defs ",
+  "extent": [-180.00022620, -89.99609513, 179.99294937, 90.00049265],
+  "tile_matrix": [
+  {
+    "id": "0",
+    "tile_size": [512, 512],
+    "origin": [-180.00000000, 90.00000000],
+    "extent": [-180.00000000, -90.00000000, 180.00000000, 90.00000000],
+    "pixel_size": [0.71444937, -0.71444937],
+    "matrix_size": [1, 1],
+    "scale_denominator": 284043356.79504722
+  },
+  {
+    "id": "1",
+    "tile_size": [512, 512],
+    "origin": [-180.00000000, 90.00000000],
+    "extent": [-180.00000000, -90.00000000, 180.00000000, 90.00000000],
+    "pixel_size": [0.35722468, -0.35722468],
+    "matrix_size": [2, 1],
+    "scale_denominator": 142021678.39752361
+  },
+  {
+    "id": "2",
+    "tile_size": [512, 512],
+    "origin": [-180.00000000, 90.00000000],
+    "extent": [-180.00000000, -90.00000000, 180.00000000, 90.00000000],
+    "pixel_size": [0.17861234, -0.17861234],
+    "matrix_size": [4, 2],
+    "scale_denominator": 71010839.19876181
+  },
+  {
+    "id": "3",
+    "tile_size": [512, 512],
+    "origin": [-180.00000000, 90.00000000],
+    "extent": [-180.00000000, -90.00000000, 180.00000000, 90.00000000],
+    "pixel_size": [0.08930617, -0.08930617],
+    "matrix_size": [8, 4],
+    "scale_denominator": 35505419.59938090
+  }
+]
+}
